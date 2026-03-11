@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Karthik Reddy! ⚡
+# 👋 Hi, I'm Karthik Reddy!
 
 **CS-AIML Student | Game Dev Enthusiast | UI/UX Designer**
 
@@ -6,31 +6,31 @@ I am a Computer Science engineering student specializing in **Artificial Intelli
 
 ---
 
-### 🕹️ What I'm Into
+###  What I'm Into
 
 * **Game Dev:** Experimenting with **UE4/5** and **Godot**. I love the intersection of logic and visual storytelling.
-* **Chess:** Casual player (400 range). Always down for a quick game to sharpen the tactical brain. ♟️
-* **Creative Flow:** When I'm not coding, I'm likely messing with **FL Studio**, playing **Guitar**, or **Cooking**.
+* **Chess:** Casual player . Always down for a quick game to sharpen the tactical brain. ♟️
+* **Creative Flow:** When I'm not coding, I'm likely messing with **FL Studio**, playing **Guitar**, or **Genshin**.
 
 ---
 
-### 🛠️ Technical Toolkit
+### Technical Toolkit
 
-* **Languages:** Python, C++, C#, JavaScript, SQL
+* **Languages:** Python, C++, Java(Beginner), SQL, GDScript
 * **Engines & Tools:** Unreal Engine 4/5, Godot, Figma, Blender, Git
 * **AI/ML:** Face Recognition, Hypopnea Detection, Language Translation
 
 ---
 
-### 📂 Featured Work & Experience
+###  Featured Work & Experience
 
 * **AI Intern:** Previously worked on AI and Python development at **Pantech Solutions**.
 * **UI/UX & R&D:** Interned at **Valmiki**, focusing on research and design.
-* **Leadership:** Currently **Vice President** of the Tech Titans AI & ML Club and former **Club Lead** for Vortex (E-Sports).
+* **Leadership:** Former **Vice President** of the Tech Titans AI & ML Club and former **Club Lead** for Vortex (E-Sports).
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=DamianDives&show_icons=true&theme=tokyonight" alt="Karthik's Stats" width="400" />
