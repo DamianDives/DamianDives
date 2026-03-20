@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Karthik Reddy!
+# 👋 Hi, I'm jyo
 
-**CS-AIML Student | Game Dev Enthusiast | UI/UX Designer**
+**AIDS Student| CODING ENTHUSIAST**
 
 I am a Computer Science engineering student specializing in **Artificial Intelligence and Machine Learning**. I focus on bridging the gap between intelligent backend systems and high-fidelity aesthetic design.
 
