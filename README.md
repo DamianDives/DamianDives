@@ -1,6 +1,6 @@
-# 👋 Hi, I'm jyo
+# 👋 Hi, I'm Damian(Karthik)
 
-**AIDS Student| CODING ENTHUSIAST**
+**CSM Student| CODING ENTHUSIAST**
 
 I am a Computer Science engineering student specializing in **Artificial Intelligence and Machine Learning**. I focus on bridging the gap between intelligent backend systems and high-fidelity aesthetic design.
 
